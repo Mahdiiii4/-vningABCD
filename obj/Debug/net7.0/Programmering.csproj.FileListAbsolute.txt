@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Programmering\bin\Debug\net7.0\Programmering.exe
+C:\Users\Admin\Documents\Programmering\bin\Debug\net7.0\Programmering.deps.json
+C:\Users\Admin\Documents\Programmering\bin\Debug\net7.0\Programmering.runtimeconfig.json
+C:\Users\Admin\Documents\Programmering\bin\Debug\net7.0\Programmering.dll
+C:\Users\Admin\Documents\Programmering\bin\Debug\net7.0\Programmering.pdb
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\Programmering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\Programmering.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\Programmering.AssemblyInfo.cs
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\Programmering.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\Programmering.dll
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\refint\Programmering.dll
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\Programmering.pdb
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\Programmering.genruntimeconfig.cache
+C:\Users\Admin\Documents\Programmering\obj\Debug\net7.0\ref\Programmering.dll
